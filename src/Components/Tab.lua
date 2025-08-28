@@ -67,11 +67,7 @@ function TabModule:New(Title, Icon, Parent)
 			RichText = true,
 			TextColor3 = Color3.fromRGB(255, 255, 255),
 			TextTransparency = 0,
-			FontFace = Font.new(
-				"rbxasset://fonts/families/GothamSSm.json",
-				Enum.FontWeight.Regular,
-				Enum.FontStyle.Normal
-			),
+			FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json"),
 			TextSize = 12,
 			TextXAlignment = "Left",
 			TextYAlignment = "Center",
