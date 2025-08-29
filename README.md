@@ -1,5 +1,5 @@
 ## Fluent
-You are currently on branch: `Releases`.
+You are currently on branch: `builds`.
 
 To use a built module, please see the `releases` folder.
 
